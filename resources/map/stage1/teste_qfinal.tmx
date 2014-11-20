@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Image-Tileset" tilewidth="32" tileheight="32">
+  <image source="../../../Desktop/Image-Tileset.png" width="1218" height="386"/>
+ </tileset>
+ <tileset firstgid="457" name="Zeke" tilewidth="64" tileheight="64">
+  <image source="../../../Desktop/Zeke.png" width="1065" height="3330"/>
+ </tileset>
+ <layer name="Chão" width="60" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlMkNgDAMBMOfamiBbigLGqE0eEfgKL5yrEfaX67N2k4pCILZuJc6jUKtLy31BJrnv3dR7y156t2jNBfPLFvXYL7eK9dWM+ir1r0pZWSVuXff1r5Lc65yvXr0G3UXB+1crbPg7LWchVo5UOdz91nOQiu8/ErukuL915I5o4lVTYZo7QpnIGbJ9Xtk0uibEXoKhfiD8TiBdL1awbQBCc1vKDSbHr9+74Y=
+  </data>
+ </layer>
+ <layer name="Plataformas" width="60" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlEsOgCAMBfH+C//exL+H8y1dQCQaBXEmmQR2bfpaYwAA0iHPjClkKStZn7yP/0a2sstCd+FPr1oHOcpJzifv43+Rq9w+1C/Ej20Hm4QzZtvBJeF+fXHl4Gs31hdXDkLfWOYQxxz+Cvkjf7ETW0afrueJjN6p+Uo9oWf29p5zVwAAAADgDjsuyGf5
+  </data>
+ </layer>
+</map>

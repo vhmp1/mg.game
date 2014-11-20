@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Image-Tileset" tilewidth="64" tileheight="64">
+  <image source="../../../Desktop/Image-Tileset.png" width="1218" height="386"/>
+ </tileset>
+ <tileset firstgid="115" name="Zeke" tilewidth="32" tileheight="32">
+  <image source="../../../Desktop/Zeke.png" width="1065" height="3330"/>
+ </tileset>
+ <layer name="Chão" width="60" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztWNEKwjAMzJM/4/cIgrjnPfn/jyJYiCHX5ppSN13gYF3Ty11SGOwuIved4+qsPegcCfB6Yd+zud5ZVoPm8vIQj31GvfkF1HqE7kBtj5nTVvyO5s9w9/SWqWn5Wa2ZfHtW12/5ZuvORE8ftw40g6jPnn5k+yjg2auBajH1W3rtnoD3GrVvjFev5TM7l0g+yxnxG9WOfLIeUV8z3JleIz0jwfaulR/lGsHB1GE5Ub6OEVy9frKaItytdWbGEU+j70WkR9ka36ztRVZ37Vt06/QZ9a25bM4If+Lwab8vf4tBTRMzHzSzaH7vnaudtV4X0t9MeMGcf825zFfPOaMF6WK1je5T+W9h73Pk/MVgtvZVrdfA/iqf/2nKfMvzQ8F6QxgdawOoH3pP3h6tX29mDGbfT8Z/9I5ewbuCbwSaNfq+Wr16jWaH/uXuFf8W5z/D6cCBA7uEbEDDbDwBIq7bZQ==
+  </data>
+ </layer>
+ <layer name="Plataformas" width="60" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1lsKwCAMRNHZrrX7/26hDn1ALUikr3tAoj8iIVElAHiHPI+hxPHms+D7kpZ6k9a6c6QG49XyLZFz/I97IrL2e+wJoJ170uMJf41Uot/kfLLmDgHibN9naX8f6BA9pwcBAABwZQIXXxYN
+  </data>
+ </layer>
+</map>

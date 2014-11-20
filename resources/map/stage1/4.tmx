@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="31" height="21" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="poar" tilewidth="32" tileheight="32">
+  <image source="poar.png" width="608" height="192"/>
+ </tileset>
+ <layer name="Objects" width="31" height="21">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjABVkAnEWEGcDcQ4SOxsPO2dAXEoaQPfXULeHUkCqO4eKvwYTIBRmo3FAHUBpuJCifzQOIEATiLWAWBuIdUjkU6IXxGcBYlYgZgNidhL5lOilBn+o2g0A0wgD8iwKAAA=
+  </data>
+ </layer>
+</map>

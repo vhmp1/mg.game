@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Image-Tileset" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="../../../Desktop/Image-Tileset.png" width="1218" height="386"/>
+ </tileset>
+ <layer name="Chao" width="60" height="32">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2SWw6CMBBF64rcjk9WoiKsxBfsQr98siqnsU2aZoYOKX/ek5yElDK9FzAGAAAAAAAAAAAAAAAAABifcvJfTk2eN6Uzxjm5IJfkilyTheIbcLO4edzadaSeUoZUt9RznBtGzVmF+6d95vB66HfjMnBZNLn6ZlkPjKme1jromMogde3LMCRLaN8s692p7ehtg+w+95bckSW5Jyu3V8qmUepWC+acFc9uA7ugr393R/JEnskL2bi9UjaNlbDeCuacFc/uAt/mh+3r/5EH+SRf7v7H7ZWyaWyE9U4w56x4dtznC60/OYAAHgAA
+  </data>
+ </layer>
+ <layer name="Plats" width="60" height="32">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3TOQ6AMAxFQefa7Nwcl7QkIghlRvqlJTcvAoC7qUTMuSW35rbcnjtyZ/n6Oxhba5/6hvfVdtb7DkbVszVdQ72nHfRqVNcAAP9wAevm6IcAHgAA
+  </data>
+ </layer>
+</map>
